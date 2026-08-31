@@ -44,6 +44,8 @@ def julio_guedes():
 
 ---
 
+<div align="center">
+
 ### 🧩 Stack tecnológica
 
 **Linguagens**
@@ -64,12 +66,14 @@ def julio_guedes():
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions" />
 
 **Business Intelligence & Produtividade**
 
 <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -82,20 +86,6 @@ def julio_guedes():
 | **Banco de Dados** | PostgreSQL, MySQL |
 | **DevOps** | Docker, CI/CD |
 | **BI & Automação** | Excel Avançado, Power BI |
-
----
-
-### 📌 Projetos em destaque
-
-- 🏍️ **[natan-motos](https://github.com/jwguedes01-afk/natan-motos)** — Projeto em HTML
-- 🚚 **[FROTA](https://github.com/jwguedes01-afk/FROTA)** — Sistema de gestão de frota
-
----
-
-### 📊 Estatísticas do GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=jwguedes01-afk&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwguedes01-afk&layout=compact&theme=dark&hide_border=true" width="45%"/>
 
 ---
 
