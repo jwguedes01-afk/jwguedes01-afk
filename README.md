@@ -1,94 +1,39 @@
-<div align="center">
+# Júlio Guedes
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4A90D9&height=200&section=header&text=Júlio%20Guedes&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Python%20Developer&descAlignY=55&descSize=20" width="100%"/>
+**Analista de Logística · Dados e Desenvolvimento de Sistemas**
 
-### 💻 Python Developer | Django • FastAPI • Flask | React • Docker • CI/CD
+Atuo na gestão de frota, roteirização e indicadores operacionais, e desenvolvo os sistemas, dashboards e automações que sustentam a operação. Fortaleza, CE · Remoto.
 
-**Transformando ideias em sistemas robustos e escaláveis**
-
-<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://wa.me/5585981981846" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="mailto:jwguedes01@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/jwguedes01-afk" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
+[Portfólio](https://julio-portfolio.pages.dev) · [LinkedIn](https://www.linkedin.com/in/julio-guedes-) · [E-mail](mailto:jwguedes01@gmail.com)
 
 ---
 
-### 🧠 Sobre mim
+## Sistemas em produção
 
-- 👋 **Olá!** Sou o Júlio, desenvolvedor Full Stack com foco em **Python** e construção de sistemas completos.
-- 💼 **Atuação:** Desenvolvedor Python (Django, FastAPI, Flask) com experiência em frontend (React) e infraestrutura (Docker, CI/CD).
-- 🔗 **Perfil:** Conecto backend robusto com interfaces modernas, entregando soluções ponta a ponta.
-- 🎯 **Especialidades:** Desenvolvimento de APIs, consumo de APIs externas, sistemas web, automação com Excel e dashboards em Power BI.
-- 🗄️ **Bancos de dados:** PostgreSQL e MySQL — modelagem, queries e integração com aplicações.
-- 🐳 **DevOps:** Docker para containerização e pipelines de CI/CD.
-- 📍 **Local:** Fortaleza, CE — atendimento **remoto**.
+Três sistemas desenvolvidos para substituir controles manuais na operação de logística. O código é de uso interno da empresa e, por isso, não é público. As telas, com dados fictícios, estão no [portfólio](https://julio-portfolio.pages.dev/#projetos).
 
-```python
-def julio_guedes():
-    return {
-        "cargo": "Full Stack Python Developer",
-        "local": "Fortaleza, CE - Remoto",
-        "foco": [
-            "Backend: Django, FastAPI, Flask",
-            "Frontend: React, JavaScript, HTML, CSS",
-            "Bancos de Dados: PostgreSQL, MySQL",
-            "DevOps: Docker, CI/CD",
-            "Integração: Consumo de APIs",
-            "BI: Excel Avançado, Power BI",
-        ],
-        "objetivo": "Construir sistemas sólidos, do backend à interface."
-    }
-```
+| Sistema | Finalidade |
+| --- | --- |
+| **GestFrota** | Controle de frota: abastecimentos, manutenções, multas e custo por veículo |
+| **Rastreio** | Acompanhamento de entregas e ocorrências da operação |
+| **ProdManutenção** | Controle de manutenção e produtividade da frota |
 
----
+## Atuação
 
-<div align="center">
+- **Logística:** roteirização, gestão de transportadoras parceiras, controle de frota e conformidade regulatória (AET e Inmetro).
+- **Dados e BI:** dashboards de KPIs logísticos em Power BI e Chart.js, modelagem de bancos relacionais e consultas SQL.
+- **Automação:** rotinas de ETL e relatórios em Python (Pandas e OpenPyXL), substituindo processos manuais em Excel.
+- **Desenvolvimento:** aplicações web com FastAPI, Django e React, do levantamento de requisitos ao deploy.
 
-### 🧩 Stack tecnológica
+## Tecnologias
 
-**Linguagens**
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-
-**Frameworks & Ferramentas Python**
-
-<img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-**Bancos de Dados**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions" />
-
-**Business Intelligence & Produtividade**
-
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-</div>
+| Área | Ferramentas |
+| --- | --- |
+| Back-end | Python, FastAPI, Django |
+| Front-end | React, JavaScript, HTML, CSS |
+| Dados | PostgreSQL, SQL, Pandas, Power BI, Excel avançado |
+| Ferramentas | Git, GitHub |
 
 ---
 
-### 🛠️ Áreas de atuação
-
-| Área | Tecnologias principais |
-|---|---|
-| **Backend / APIs** | Django, FastAPI, Flask, consumo de APIs |
-| **Frontend** | React, JavaScript, HTML, CSS |
-| **Banco de Dados** | PostgreSQL, MySQL |
-| **DevOps** | Docker, CI/CD |
-| **BI & Automação** | Excel Avançado, Power BI |
-
----
-
-<div align="center">
-<sub>💡 Sempre aprendendo e construindo novos projetos.</sub>
-</div>
+Disponível para oportunidades em logística, dados e desenvolvimento. Contato pelo [LinkedIn](https://www.linkedin.com/in/julio-guedes-) ou por [e-mail](mailto:jwguedes01@gmail.com).
