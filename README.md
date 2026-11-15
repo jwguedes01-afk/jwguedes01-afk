@@ -21,8 +21,9 @@ Tenho experiência no desenvolvimento de sistemas para gestão de frotas, rastre
 
 ---
 
-## Stack
+<h2 align="center">Stack</h2>
 
+<div align="center">
 <table>
   <tr>
     <td><b>Back-end</b></td>
@@ -38,6 +39,7 @@ Tenho experiência no desenvolvimento de sistemas para gestão de frotas, rastre
       <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="PostgreSQL, MySQL" />
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
     </td>
   </tr>
   <tr>
@@ -45,6 +47,7 @@ Tenho experiência no desenvolvimento de sistemas para gestão de frotas, rastre
     <td><img src="https://skillicons.dev/icons?i=aws,git,github,vscode&perline=8" alt="AWS S3, Git, GitHub, VS Code" /></td>
   </tr>
 </table>
+</div>
 
 ## Projetos em produção
 
