@@ -21,7 +21,11 @@ Construo sistemas web, APIs e dashboards que substituem planilhas e controles ma
   </tr>
   <tr>
     <td><b>Dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,powerbi,pandas&perline=8" alt="PostgreSQL, MySQL, Power BI, Pandas" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="PostgreSQL, MySQL" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    </td>
   </tr>
   <tr>
     <td><b>Infra e ferramentas</b></td>
