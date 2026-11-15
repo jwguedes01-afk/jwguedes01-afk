@@ -21,7 +21,7 @@ Construo sistemas web, APIs e dashboards que substituem planilhas e controles ma
   </tr>
   <tr>
     <td><b>Dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,supabase,powerbi,pandas&perline=8" alt="PostgreSQL, Supabase, Power BI, Pandas" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,powerbi,pandas&perline=8" alt="PostgreSQL, MySQL, Power BI, Pandas" /></td>
   </tr>
   <tr>
     <td><b>Infra e ferramentas</b></td>
