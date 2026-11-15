@@ -2,7 +2,20 @@
 
 **Desenvolvedor full stack · Dados e Logística**
 
-Construo sistemas web, APIs e dashboards que substituem planilhas e controles manuais na operação de logística. Trabalho de ponta a ponta: levantamento com quem usa, modelagem do banco, API, interface e deploy. Fortaleza, CE · Remoto.
+# Júlio Guedes
+**Desenvolvedor Full Stack | Sistemas, Dados e Tecnologia para Logística**
+
+Desenvolvedor Full Stack com foco na criação de sistemas web, APIs e dashboards voltados à automação de processos e à gestão operacional. Combino conhecimentos em desenvolvimento de software, banco de dados e análise de dados com experiência prática em operações logísticas.
+
+Atuo no desenvolvimento de soluções completas, desde o levantamento de requisitos e modelagem de dados até a construção de APIs, interfaces e implantação de aplicações.
+
+Tenho experiência no desenvolvimento de sistemas para gestão de frotas, rastreabilidade de mercadorias e manutenção industrial, transformando processos manuais e controles em planilhas em soluções digitais mais eficientes, organizadas e escaláveis.
+
+**Principais tecnologias:** Python, Django, FastAPI, React, JavaScript, PostgreSQL, MySQL e Supabase.
+
+**Áreas de atuação:** Desenvolvimento Full Stack, APIs REST, modelagem de banco de dados, dashboards, automação de processos e sistemas de gestão logística.
+
+📍 Fortaleza – CE | Disponível para oportunidades remotas.
 
 [Portfólio](https://julio-portifolio.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/julio-guedes-) · [E-mail](mailto:jwguedes01@gmail.com)
 
