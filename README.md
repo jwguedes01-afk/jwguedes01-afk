@@ -27,12 +27,35 @@ Três sistemas desenvolvidos para substituir controles manuais na operação de 
 
 ## Tecnologias
 
-| Área | Ferramentas |
-| --- | --- |
-| Back-end | Python, FastAPI, Django |
-| Front-end | React, JavaScript, HTML, CSS |
-| Dados | PostgreSQL, SQL, Pandas, Power BI, Excel avançado |
-| Ferramentas | Git, GitHub |
+<table>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,fastapi,django&perline=6" alt="Python, FastAPI, Django" /></td>
+  </tr>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,js,html,css&perline=6" alt="React, JavaScript, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td><b>Banco de dados</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres&perline=6" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/SQL-2D3748?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Dados e BI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Ferramentas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github&perline=6" alt="Git, GitHub" /></td>
+  </tr>
+</table>
 
 ---
 
