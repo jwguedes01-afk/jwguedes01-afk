@@ -39,11 +39,6 @@ Sistemas que desenvolvi e mantenho para a operação de logística. O código é
 | **Rastreio** | Recebimento, saída e entrega de cargas por nota fiscal: bipagem de NF-e via API, saldo de peso garantido no banco e baixa com foto do canhoto | Python, Django, PostgreSQL, S3, django-axes |
 | **ProdManutenção** | Manutenção preventiva industrial: OS abertas e concluídas pelo celular com QR Code, e geração automática das preventivas a partir do plano | React 19, FastAPI, Supabase, RLS, Render |
 
-## Projetos públicos
-
-- [**portifolio**](https://github.com/jwguedes01-afk/portifolio): meu portfólio, em HTML, CSS e JavaScript puros com three.js e Vite. Tem um roteirizador interativo e um estoque em 3D. [Ver online](https://julio-portifolio.pages.dev/)
-- [**natan-motos**](https://github.com/jwguedes01-afk/natan-motos): site de uma oficina de motos, com SEO, consentimento de cookies (LGPD) e cabeçalhos de segurança.
-
 ## Além do código
 
 Vim da operação: roteirização, gestão de transportadoras e conformidade regulatória (AET e Inmetro). Isso me deixa construir software a partir do problema real, e não de um requisito abstrato. Também faço dashboards de KPIs em Power BI e automações de ETL e relatórios em Python (Pandas e OpenPyXL).
